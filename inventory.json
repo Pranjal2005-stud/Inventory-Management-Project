@@ -1,0 +1,156 @@
+[
+  {
+    "id": 101,
+    "name": "Whole Milk (1L)",
+    "price": 1.50,
+    "stock": 40,
+    "category_id": 1
+  },
+  {
+    "id": 102,
+    "name": "Cheddar Cheese Block (500g)",
+    "price": 4.75,
+    "stock": 15,
+    "category_id": 1
+  },
+  {
+    "id": 103,
+    "name": "Free Range Eggs (12pk)",
+    "price": 3.50,
+    "stock": 30,
+    "category_id": 1
+  },
+  {
+    "id": 104,
+    "name": "Salted Butter (454g)",
+    "price": 4.00,
+    "stock": 20,
+    "category_id": 1
+  },
+  {
+    "id": 105,
+    "name": "Greek Yogurt (1kg)",
+    "price": 5.50,
+    "stock": 12,
+    "category_id": 1
+  },
+  {
+    "id": 106,
+    "name": "Almond Milk (Unsweetened)",
+    "price": 2.20,
+    "stock": 18,
+    "category_id": 1
+  },
+  {
+    "id": 107,
+    "name": "Bananas (1kg)",
+    "price": 0.90,
+    "stock": 100,
+    "category_id": 2
+  },
+  {
+    "id": 108,
+    "name": "Red Potatoes (5kg)",
+    "price": 5.00,
+    "stock": 20,
+    "category_id": 2
+  },
+  {
+    "id": 109,
+    "name": "Gala Apples (1kg)",
+    "price": 2.80,
+    "stock": 45,
+    "category_id": 2
+  },
+  {
+    "id": 110,
+    "name": "Baby Spinach (200g)",
+    "price": 1.99,
+    "stock": 25,
+    "category_id": 2
+  },
+  {
+    "id": 111,
+    "name": "Carrots (1kg)",
+    "price": 1.50,
+    "stock": 50,
+    "category_id": 2
+  },
+  {
+    "id": 112,
+    "name": "Yellow Onions (2kg)",
+    "price": 2.00,
+    "stock": 35,
+    "category_id": 2
+  },
+  {
+    "id": 113,
+    "name": "Sourdough Bread Loaf",
+    "price": 3.25,
+    "stock": 10,
+    "category_id": 3
+  },
+  {
+    "id": 114,
+    "name": "Bagels (Sesame 6pk)",
+    "price": 2.50,
+    "stock": 15,
+    "category_id": 3
+  },
+  {
+    "id": 115,
+    "name": "Butter Croissants (4pk)",
+    "price": 3.99,
+    "stock": 8,
+    "category_id": 3
+  },
+  {
+    "id": 116,
+    "name": "Whole Wheat Burger Buns (8pk)",
+    "price": 2.00,
+    "stock": 24,
+    "category_id": 3
+  },
+  {
+    "id": 117,
+    "name": "Chocolate Chip Muffins (4pk)",
+    "price": 4.50,
+    "stock": 10,
+    "category_id": 3
+  },
+  {
+    "id": 118,
+    "name": "Basmati Rice (2kg)",
+    "price": 6.50,
+    "stock": 25,
+    "category_id": 4
+  },
+  {
+    "id": 119,
+    "name": "Extra Virgin Olive Oil (750ml)",
+    "price": 8.00,
+    "stock": 15,
+    "category_id": 4
+  },
+  {
+    "id": 120,
+    "name": "Spaghetti Pasta (500g)",
+    "price": 1.20,
+    "stock": 60,
+    "category_id": 4
+  },
+  {
+    "id": 121,
+    "name": "Tomato Basil Sauce (Jar)",
+    "price": 2.50,
+    "stock": 30,
+    "category_id": 4
+  },
+  {
+    "id": 122,
+    "name": "Black Beans (Can)",
+    "price": 0.99,
+    "stock": 100,
+    "category_id": 4
+  }
+]
