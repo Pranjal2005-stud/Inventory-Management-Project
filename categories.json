@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Dairy & Eggs",
+    "description": "Fresh milk, cheese, butter, and farm eggs"
+  },
+  {
+    "id": 2,
+    "name": "Fruits & Vegetables",
+    "description": "Organic and locally sourced produce"
+  },
+  {
+    "id": 3,
+    "name": "Bakery",
+    "description": "Bread, buns, and pastries"
+  },
+  {
+    "id": 4,
+    "name": "Pantry Staples",
+    "description": "Rice, pasta, oils, and spices"
+  }
+]
