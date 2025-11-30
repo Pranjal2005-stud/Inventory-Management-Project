@@ -1,0 +1,15 @@
+[Unit]
+Description=Inventory FastAPI service
+After=network.target
+
+[Service]
+User=ubuntu
+Group=www-data
+WorkingDirectory=/home/ubuntu/inventory-migration
+Environment=PATH=/home/ubuntu/inventory-migration/venv/bin
+ExecStart=/home/ubuntu/inventory-migration/venv/bin/uvicorn main:app --host 127.0.0.1 --port 8000 --workers 1
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
